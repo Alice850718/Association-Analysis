@@ -1,2 +1,3 @@
-DataMining-Apriori實現Apriori Algorithm
-DM1實現FP-growth
+* DataMining-Apriori實現Apriori Algorithm
+
+*	DM1實現FP-growth
